@@ -3,7 +3,7 @@ import React from 'react'
 const Navigation = () => {
   return (
     <nav className='flex justify-end'>
-      <p className='cursor-pointer underline text-2xl hover:text-gray-500 p-4'>Sign Out</p>
+      <p className='cursor-pointer underline text-2xl text-gray-900 hover:text-violet-600 p-4'>Sign Out</p>
     </nav>
   )
 }
