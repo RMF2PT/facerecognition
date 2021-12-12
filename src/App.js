@@ -5,9 +5,9 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 
 function App() {
   return (
-    <div className="bg-gradient-to-br bg from-indigo-400 to-orange-400 w-full h-screen">
-      <Navigation />
+    <div className="bg-gray-900 w-full h-screen">
       <Logo />
+      <Navigation />
       <ImageLinkForm />
       {/* <FaceRecognition /> */}
     </div>
