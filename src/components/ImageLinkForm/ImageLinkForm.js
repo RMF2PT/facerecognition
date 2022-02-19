@@ -3,7 +3,7 @@ import React from 'react'
 const ImageLinkForm = () => {
   return (
     <div className='pt-10'>
-      <p className='w-screen text-3xl text-center p-6 text-gray-100'>
+      <p className='w-screen text-2xl text-center p-6 text-gray-100'>
         {'This App detects faces on your pictures. Give it a try...'}
       </p>
       <div className="flex justify-center">
